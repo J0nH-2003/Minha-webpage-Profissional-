@@ -381,7 +381,7 @@ h2 {
 
 .projeto-img {
   width: 100%;
-  height: 200px;
+  height: 400px;
   object-fit: cover;
   display: block;
   filter: brightness(0.85) saturate(1.2);
